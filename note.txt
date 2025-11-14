@@ -1,0 +1,2 @@
+this file is created using 'with'.
+this file is   automatically closes thg file.
